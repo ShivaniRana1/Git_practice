@@ -1,6 +1,7 @@
 
 from tkinter import *
 import datetime
+import sqlite3
 
 root = Tk()
 root.title("shivani phonebook")
